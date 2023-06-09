@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -1Ap | sort -d -k1.1,1.1 -k1.2n -k1.3 | awk '{printf "%s%s", $0, NR%2==0 ? ",\n" : ""}'
