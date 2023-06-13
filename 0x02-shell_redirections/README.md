@@ -12,3 +12,4 @@
 9.9-duplicate_last_line --> duplicates last line 
 10.10-no_more_js -->deletes .js (javascript) files in directory and subfolders
 11.11-directories --> counts number of dir and sub-dir in current directory
+12.12-newest_files --> displays 10 newest made filesin current dir
