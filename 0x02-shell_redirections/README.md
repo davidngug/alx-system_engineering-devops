@@ -15,3 +15,4 @@
 12.12-newest_files --> displays 10 newest made filesin current dir
 13.13-unique --> takes a list of words as input and prints only words that appear exactly once
 14.14-findthatword --> Displays lines containing a specific pattern in /etc/passwd in this case 'root' 
+15.15-countthatword --> displays the number of lines that contain the pattern bin in the file  /etc/passwd
