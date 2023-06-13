@@ -6,3 +6,4 @@
 4.3-twofiles --> dispalys content /etc/passwd & /etc/hosts
 5.4-lastlines --> displays last 10 lines of a file
 5.5-firstlines --> dispalys first 10 lines of /etc/passwd
+6.6-third_line --> displays third line of file iacta
