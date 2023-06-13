@@ -11,3 +11,4 @@
 8.8-cwd_state --> script writes into the file ls_cwd_content the result of the command ls -la .If the file ls_cwd_content already exists,it overwrites it
 9.9-duplicate_last_line --> duplicates last line 
 10.10-no_more_js -->deletes .js (javascript) files in directory and subfolders
+11.11-directories --> counts number of dir and sub-dir in current directory
