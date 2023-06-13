@@ -13,3 +13,4 @@
 10.10-no_more_js -->deletes .js (javascript) files in directory and subfolders
 11.11-directories --> counts number of dir and sub-dir in current directory
 12.12-newest_files --> displays 10 newest made filesin current dir
+13.13-unique --> takes a list of words as input and prints only words that appear exactly once
