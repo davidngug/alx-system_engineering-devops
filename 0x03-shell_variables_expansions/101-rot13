@@ -1,0 +1,2 @@
+#!/bin/bash
+read -r text | encoded=$(echo "$text" |tr 'a-zA-Z' 'n-za-mN-ZA-M')| echo "Encoded: $encoded"
