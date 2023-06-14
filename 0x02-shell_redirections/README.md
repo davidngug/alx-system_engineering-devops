@@ -20,3 +20,4 @@
 17.17-hidethisword -->dispalys all lines in file /etc/passwd that donot contain the pattern bin
 18.18-letteronly --> displays all lines of the file starting with a letter
 
+19.19-AZ --> replaces ALL CHARACTERS A and c from input to z and e respectively
