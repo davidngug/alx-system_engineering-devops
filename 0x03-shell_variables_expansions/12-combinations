@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in {a..z}: do for j in {a..z}: do [[ "$i$j" !="zz" ]]| echo "$i$j": done: done
