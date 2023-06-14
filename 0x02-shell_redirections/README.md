@@ -22,3 +22,4 @@
 
 19.19-AZ --> replaces ALL CHARACTERS A and c from input to z and e respectively
 20.20-hiago --> removes all letters C and c
+21.21-reverse --> script reverse its input
