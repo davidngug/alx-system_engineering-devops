@@ -25,3 +25,4 @@
 21.21-reverse --> script reverse its input
 22.22-users_and_homes --> displays users and home dir sorted buy users
 23.100-empty_casks --> command that finds all empty files and directories in the current directory and all sub-directories.
+24.101-gifs --> script that lists all the files with a .gif extension in the current directory and all its sub-directories.
